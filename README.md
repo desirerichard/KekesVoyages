@@ -24,4 +24,4 @@ The mission is to design the modeling of an online flight booking platform for a
     - Comprehensive documentation of each element of the UML model, including integrated business rules to guide the future development of the system.
 7. **Analysis of client requirements:**
     - Meeting with the client to understand specific requirements for online flight ticket reservation.
-    - Identification et documentation des règles qui régissent le système, y compris les comportements attendus et les contraintes applicables.
+    - Identification and documentation of the rules that govern the system, including expected behaviours and applicable constraints.
