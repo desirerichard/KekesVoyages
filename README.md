@@ -72,3 +72,9 @@ The mission is to design the modeling of an online flight booking platform for a
     - Each airport serves one or more cities.
 5. **Airline Management:**
     - Different airlines offer various flights.
+
+<br>
+
+### Sequence Diagram :
+
+We have integrated the previously seen business rules into the sequence diagram. Put the relationships between the classes as well as their methods.
