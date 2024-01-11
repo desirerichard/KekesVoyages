@@ -63,7 +63,7 @@ The mission is to design the modeling of an online flight booking platform for a
 
 <br>
 
-<img src="https://raw.githubusercontent.com/desirerichard/KekesVoyages/main/UseCaseDiagram.png" alt="Use case diagram" />
+<a href="https://raw.githubusercontent.com/desirerichard/KekesVoyages/main/UseCaseDiagram.png">Use Case Diagram image <--</a>
 
 <br>
 
@@ -90,7 +90,7 @@ The mission is to design the modeling of an online flight booking platform for a
 
 <br>
 
-<img src="https://raw.githubusercontent.com/desirerichard/KekesVoyages/main/ClassDiagram.png" alt="Use case diagram" />
+<a href="https://raw.githubusercontent.com/desirerichard/KekesVoyages/main/ClassDiagram.png">Class Diagram image <--</a>
 
 <br>
 
@@ -100,8 +100,8 @@ We have integrated the rules into the sequence diagram. Put the relationships be
 
 <br>
 
-<img src="https://raw.githubusercontent.com/desirerichard/KekesVoyages/main/Sequence%20Diagram/SequenceDiagram.png" alt="Use case diagram" />
+<a href="https://raw.githubusercontent.com/desirerichard/KekesVoyages/main/Sequence%20Diagram/SequenceDiagram.png">Sequence Diagram image <--</a>
 
-<img src="https://raw.githubusercontent.com/desirerichard/KekesVoyages/main/Sequence%20Diagram/SequenceDiagram_Login.png" alt="Use case diagram" />
+<a href="https://raw.githubusercontent.com/desirerichard/KekesVoyages/main/Sequence%20Diagram/SequenceDiagram_Login.png">Sequence Diagram - Login image <--</a>
 
-<img src="https://raw.githubusercontent.com/desirerichard/KekesVoyages/main/Sequence%20Diagram/SequenceDiagram_Booking.png" alt="Use case diagram" />
+<a href="https://raw.githubusercontent.com/desirerichard/KekesVoyages/main/Sequence%20Diagram/SequenceDiagram_Booking.png">Sequence Diagram - Booking image <--</a>
