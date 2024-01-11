@@ -52,6 +52,10 @@ The mission is to design the modeling of an online flight booking platform for a
 
 <br>
 
+<img src="https://raw.githubusercontent.com/desirerichard/KekesVoyages/main/UseCaseDiagram.png" alt="Use case diagram" />
+
+<br>
+
 ### Class Diagram:
 
 #### Rules:
@@ -75,6 +79,18 @@ The mission is to design the modeling of an online flight booking platform for a
 
 <br>
 
+<img src="https://raw.githubusercontent.com/desirerichard/KekesVoyages/main/ClassDiagram.png" alt="Use case diagram" />
+
+<br>
+
 ### Sequence Diagram :
 
 We have integrated the rules into the sequence diagram. Put the relationships between the classes as well as their methods.
+
+<br>
+
+<img src="https://raw.githubusercontent.com/desirerichard/KekesVoyages/main/Sequence%20Diagram/SequenceDiagram.png" alt="Use case diagram" />
+
+<img src="https://raw.githubusercontent.com/desirerichard/KekesVoyages/main/Sequence%20Diagram/SequenceDiagram_Login.png" alt="Use case diagram" />
+
+<img src="https://raw.githubusercontent.com/desirerichard/KekesVoyages/main/Sequence%20Diagram/SequenceDiagram_Booking.png" alt="Use case diagram" />
