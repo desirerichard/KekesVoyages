@@ -94,7 +94,7 @@ The mission is to design the modeling of an online flight booking platform for a
 
 <br>
 
-### Sequence Diagram :
+### Sequence Diagram:
 
 We have integrated the rules into the sequence diagram. Put the relationships between the classes as well as their methods.
 
